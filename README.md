@@ -1,4 +1,6 @@
 ### 👋 Hello! I'm Lucas Henrique
+### 📧 Email: lucas.hrv@outlook.com
+### 📞 Phone: +55 (81) 9 9545-8629
 
 ![lucashrv GitHub stats](https://github-readme-stats.vercel.app/api?username=lucashrv&show_icons=true&theme=merko)
 
